@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_AreaReinforcement</Name>
+		<Assembly>PI1_AreaReinforcement.dll</Assembly>
+		<AddInId>D96EA885-9F94-4A96-AE2A-11A076FE8DA4</AddInId>
+		<FullClassName>PI1_AreaReinforcement.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
